@@ -1,0 +1,76 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific Ocean at Cascade Head",
+        "recording_device": "Portable Zoom iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/tps1xqh28o1mqad/mp3Pacific%20Ocean%20At%20Cascade%20Head.mp3?' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "year": 2017
+      },
+      "geometry": {
+        "coordinates": [
+          -124.009127,
+          45.05322
+        ],
+        "type": "Point"
+      },
+      "id": "8d41e04b65554ad2ee1781b9a6640b83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/ccbig9syryvtbjm/Bird%20On%20Ridge%20Trail%20After%20Leif%20Erickson.mp3?' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "recording_device": "Portable Zoom iPhone",
+        "title": "Bird on Ridge Trail in Forest Park",
+        "year": 2017
+      },
+      "geometry": {
+        "coordinates": [
+          -122.771204,
+          45.579028
+        ],
+        "type": "Point"
+      },
+      "id": "b4663704d08654ea111325eec7089193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/ps84gi9fkyeh9pc/Mio%20Sushi%20Nw%2023rd.mp3?' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "title": "Mio Sushi",
+        "recording_device": "Portable Zoom iPhone",
+        "year": 2017
+      },
+      "geometry": {
+        "coordinates": [
+          -122.698394,
+          45.528488
+        ],
+        "type": "Point"
+      },
+      "id": "ca071badc34f2c2815d1daa850f75aef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bridge on Clackamas River Trail Near Indian Henry Campground",
+        "description": "",
+        "recording_device": "Portable Zoom iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/8xxkmw4wdru23j3/Bridge%20On%20Clackamas%20River%20Trail%20Near%20Indian%20Henry%20Campground%20%281%29.mp3?' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "year": 2017
+      },
+      "geometry": {
+        "coordinates": [
+          -122.079219,
+          45.124683
+        ],
+        "type": "Point"
+      },
+      "id": "ef95770ed9337c2f4b71b71379231c0b"
+    }
+  ],
+  "type": "FeatureCollection"
+}
