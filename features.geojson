@@ -56,6 +56,134 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Lake Christine - Mt. Beljica Trail",
+        "recording_device": "iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/o5aza2h2d3qbxa6/Alpine%20lake%20fed%20stream%20halfway%20up%20trail%20to%20mt%20beljica%20bear%20rainier.mp3?' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "year": 2018
+      },
+      "geometry": {
+        "coordinates": [
+          -121.936005,
+          46.776957
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Swarming bees",
+        "recording_device": "iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/igompsiaht5odra/Bees%20On%20Corner%20Of%20Tyler%20And%20Decatur.mp3?' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "year": 2018
+      },
+      "geometry": {
+        "coordinates": [
+          -122.753573,
+          45.585056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Genesis Community Church band practice (from outside)",
+        "recording_device": "iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/26fnbfj7c8u9boo/Genesis%20Community%20Fellowship%20Killingsworth.mp3?' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "year": 2017
+      },
+      "geometry": {
+        "coordinates": [
+          -122.638020,
+          45.562566
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Head of the Metolius River",
+        "recording_device": "iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/soxpwsbbhbv5qk9/Head%20Of%20The%20Metolius%20River.mp3?' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "year": 2018
+      },
+      "geometry": {
+        "coordinates": [
+          -121.637886,
+          44.434730
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "J. Harry Rich State Forest - Nashua River (snowy day)",
+        "recording_device": "iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/ro10mwad1md27ck/J%20Harry%20Rich%20State%20Forest%20Nashua%20river%20snow%20fall.mp3?' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "year": 2018
+      },
+      "geometry": {
+        "coordinates": [
+          -71.584892,
+          42.629641
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Newcom Hollow beach on a summer day",
+        "recording_device": "iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/nb2xr7tszcr0qn1/Newcom%20Hollow%20Beach%20Wellfleet.mp3?' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "year": 2018
+      },
+      "geometry": {
+        "coordinates": [
+          -69.996045,
+          41.964820
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rainy day on a Cape Cod patio",
+        "recording_device": "iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/3l4zzi4hqyk0w7i/Old%20Hay%20Road%20Cape%20House%20Rainy%20Day%20August.mp3?' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "year": 2018
+      },
+      "geometry": {
+        "coordinates": [
+          -70.021269,
+          41.956244
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Washman car wash",
+        "recording_device": "iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/9gn1fq11k8k7af3/Washman%20Car%20Wash%20N%20Lombard.mp3?' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "year": 2018
+      },
+      "geometry": {
+        "coordinates": [
+          -122.737938,
+          45.587082
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Bridge on Clackamas River Trail Near Indian Henry Campground",
         "description": "",
         "recording_device": "Portable Zoom iPhone",
