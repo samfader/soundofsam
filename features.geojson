@@ -184,6 +184,108 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Standing under North Falls, Silver Falls State Park",
+        "recording_device": "Portable Zoom iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/m60vc40wigaz6ap/Under%20north%20Falls.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "December",
+        "year": 2018
+      },
+      "geometry": {
+        "coordinates": [
+          -122.622643,
+          44.885130
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Opening a corked bottle of whiskey",
+        "recording_device": "Portable Zoom iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/o538uc9goh3tozy/Whiskey%20bottle%20cork%20at%20Brian%E2%80%99s.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "February",
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -122.616981,
+          45.519697
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Birds and church bells in Queen Anne",
+        "recording_device": "Portable Zoom iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/ndfh9z0q4nttmtv/715%202nd%20Ave%20N.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "January",
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -122.353071,
+          47.626007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hiking behind Guadalupe Abbey",
+        "recording_device": "Portable Zoom iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/5u9x4n18wu86uu1/Guadalupe%20abbey%20trail.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "February",
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -123.081091,
+          45.281792
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Snowshoeing on the lake",
+        "recording_device": "Portable Zoom iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/y7f1vvkivu1sffb/Snowshoeing%20on%20trillium%20lake.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "March",
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -121.735925,
+          45.273686
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific ocean swells from above",
+        "recording_device": "Portable Zoom iPhone",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/pbtjub5vxmct4ro/Cape%20Lookout%20State%20Park.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "March",
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -123.986600,
+          45.340312
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Bridge on Clackamas River Trail Near Indian Henry Campground",
         "description": "",
         "recording_device": "Portable Zoom iPhone",
