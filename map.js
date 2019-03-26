@@ -41,18 +41,18 @@ map.on("load", function() {
 					 "circle-color": [
 							 "step",
 							 ["get", "point_count"],
-							 "#f1f075",
+							 "#9D433D",
 							 3,
-							 "#f1f075"
+							 "#9D433D"
 					 ],
 					 "circle-radius": [
 							 "step",
 							 ["get", "point_count"],
-							 20,
-							 2,
-							 30,
+							 8,
+							 1,
+							 13,
 							 5,
-							 40
+							 25
 					 ]
 			 }
 	 });
@@ -64,11 +64,14 @@ map.on("load", function() {
 		filter: ["has", "point_count"],
 		layout: {
 			"text-field": "{point_count_abbreviated}",
-			"text-font": ["DIN Offc Pro Medium", "Arial Unicode MS Bold"],
-			"text-size": 20
+			"text-font": [
+        "bdplakatt Regular",
+        "Arial Unicode MS Bold"
+      ],
+			"text-size": 32
 		},
 		paint: {
-			"text-color": "#7166c4"
+			"text-color": "#FFFFFF"
 		}
 	});
 
@@ -78,10 +81,16 @@ map.on("load", function() {
 		source: "sounds",
 		filter: ["!has", "point_count"],
     layout: {
-	    "icon-image": "music-15",
+	    "icon-image": "blue-music-15",
       "icon-padding": 0,
-      "icon-size": 1.5,
-	    "icon-allow-overlap":true
+      "icon-size": 1.25,
+      "icon-rotate": 12,
+      "icon-allow-overlap":true,
+      "text-field": "",
+      "text-font": [
+        "bdplakatt Regular",
+        "Arial Unicode MS Bold"
+      ]
 		}
 	});
 });
