@@ -286,7 +286,160 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bridge on Clackamas River Trail Near Indian Henry Campground",
+        "title": "Sounds of Ridgewood, Queens, NY",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='http://dl.dropboxusercontent.com/s/buafh59lw17b25z/Outside6420FrshPondQueensApr819.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "April",
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -73.899269,
+          40.709778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Outside a rest area",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/v4r0ee8wtdbdebd/RestAreaChelseaMI041619.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "April",
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -84.000720,
+          42.294069
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spring rain",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='http://dl.dropboxusercontent.com/s/wndys99irslzcs8/RainNewtonMa041919.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "April",
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -71.186760,
+          42.292755
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lincoln Memorial tourism",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/1ddl34ex0s9p1df/LincolnMemorialDCApr1119.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "April",
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -77.050187,
+          38.889285
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Frogs and birds in childhood woods",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='http://dl.dropboxusercontent.com/s/r5mx3y0juf5boak/FrogsBirdsChildhoodWoodsNewton042019.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "April",
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -71.190308,
+          42.287385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Outside a Days Inn",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/lf6rmdc0lk8vm67/DaysInnStClairesvilleOHApr1219.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "April",
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -80.839446,
+          40.066584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Birds, rain, and a plane at the FDR Memorial",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/caf9i7ice92owwv/BirdsRainPlaneFDRMemorialDCApril1119.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "April",
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -77.042444,
+          38.882964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Interesting bird",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/pxov615rfol4wea/BirdSawmillBrkPkwy042019.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "April",
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -71.189610,
+          42.290122
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Birds",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/dj8fsvpclaouav0/Birds10OrourkePath042019.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "April",
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -71.186757,
+          42.292733
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "test",
         "description": "",
         "recording_device": "Portable Zoom iPhone",
         "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/8xxkmw4wdru23j3/Bridge%20On%20Clackamas%20River%20Trail%20Near%20Indian%20Henry%20Campground%20%281%29.mp3?' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
