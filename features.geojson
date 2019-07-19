@@ -436,6 +436,132 @@
         "type": "Point"
       }
     },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Frogs on a river",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='http://dl.dropboxusercontent.com/s/r1wsnrwohu4yvnd/FrogsBandonOR0525%201.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "May",
+        "day": 25,
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -124.379584,
+          43.145388 
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "A clearing",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='http://dl.dropboxusercontent.com/s/pd1c1rem1oxqpkn/ClearingBandonOR0526.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "May",
+        "day": 26,
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -124.373933,
+          43.147560 
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Birds in a marsh",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/alpyxh7ltkohl88/BandonMarshOR0526.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "May",
+        "day": 26,
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -124.381586,
+          43.157707
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Banks of the lake",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/yhchpvqd25keo7p/BanksofDetroitLakeOR0628.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "June",
+        "day": 28,
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -122.174616,
+          44.706701
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Accelerating in the boat",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/a7gk1pomdvp89hy/BoatingonDetroitLake0629.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "June",
+        "day": 29,
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -122.164705,
+          44.727637
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Campfire",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/t81p1jpl6ijrv39/CampfireSouthshoreDetroitLake0629.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "June",
+        "day": 29,
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -122.174941,
+          44.706779
+        ],
+        "type": "Point"
+      }
+    },
+          {
+      "type": "Feature",
+      "properties": {
+        "title": "Mill City",
+        "recording_device": "Zoom H4n Pro",
+        "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/ds6qk7dquw0kb17/MillCityORRiverPark0630.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+        "month": "June",
+        "day": 30,
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          -122.477934,
+          44.755638
+        ],
+        "type": "Point"
+      }
+    },
     {
       "type": "Feature",
       "properties": {
