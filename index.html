@@ -4,12 +4,28 @@
 		<meta charset='utf-8' />
 		<title>Sam Fader: A map of sound</title>
 		<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-		<link href='https://api.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.css' rel='stylesheet' />
-		<script src='https://api.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.js'></script>
+		<link href='https://api.mapbox.com/mapbox-gl-js/v1.2.1/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.2.1/mapbox-gl.js'></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.4.1/mapbox-gl-geocoder.min.js'></script>
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.4.1/mapbox-gl-geocoder.css' type='text/css' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-language/v0.10.1/mapbox-gl-language.js'></script>
+
 		<link rel="stylesheet" href="styles.css">
 	</head>
 	<body>
-		<div id='map'></div>
+    <div id='map'></div>
+    <div id='menu'>
+      <input id='cjzk8fx125nc61cnss6fa6zp5' type='radio' name='rtoggle' value='streets' checked='checked'>
+      <label for='streets'>radiohead</label>
+      <input id='cjzkemt8d06s01cms4xl5t5fi' type='radio' name='rtoggle' value='streets'>
+      <label for='streets'>streets</label>
+      <input id='cjzkepuym1fhj1crukcrnjog7' type='radio' name='rtoggle' value='light'>
+      <label for='light'>light</label>
+      <input id='cjzker4mx0au61cmesu7mki0u' type='radio' name='rtoggle' value='dark'>
+      <label for='dark'>dark</label>
+      <input id='cjzkeryzv5gk61cpcsh24pt14' type='radio' name='rtoggle' value='satellite'>
+      <label for='satellite'>satellite</label>
+      </div>
 		<nav id='filter-group' class='filter-group'></nav>
 		<script src="map.js"></script>
 	</body>
