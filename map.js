@@ -11,7 +11,7 @@ var map = new mapboxgl.Map({
 	center: [-99.782286, 38.408858],
   zoom: 3.6,
   hash: true,
-  maptiks_id: "Sound Map",
+  maptiks_id: "Testing Maptiks",
 });
 
 map.addControl(new MapboxGeocoder({
