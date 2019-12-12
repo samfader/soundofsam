@@ -114,7 +114,7 @@ map.on("style.load", function() {
 		source: "sounds",
 		filter: ["!has", "point_count"],
     layout: {
-	    "icon-image": "megaphone",
+	    "icon-image": "blue-music-15",
       "icon-padding": 0,
       "icon-size": 1.25,
       "icon-rotate": initialRotation,
