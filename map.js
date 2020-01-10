@@ -9,9 +9,9 @@ var map = new mapboxgl.Map({
 	container: "map",
 	style: "mapbox://styles/samf/cjzk8fx125nc61cnss6fa6zp5",
 	center: [-99.782286, 38.408858],
-  zoom: 3.6,
-  hash: true,
-  maptiks_id: "Testing Maptiks",
+	zoom: 3.6,
+	hash: true,
+	maptiks_id: "Testing Maptiks",
 });
 
 map.addControl(new MapboxGeocoder({
@@ -33,22 +33,17 @@ function buildYearList(data) {
 	}
 }
 
-var framesPerSecond = 21; 
-var initialRotation = 12;
-var rotation = initialRotation;
-var maxRotation = 360;
-
 var layerList = document.getElementById('menu');
-var inputs = layerList.getElementsByTagName('input');
+// var inputs = layerList.getElementsByTagName('input');
  
-function switchLayer(layer) {
-var layerId = layer.target.id;
-map.setStyle('mapbox://styles/samf/' + layerId);
-}
+// function switchLayer(layer) {
+// var layerId = layer.target.id;
+// map.setStyle('mapbox://styles/samf/' + layerId);
+// }
  
-for (var i = 0; i < inputs.length; i++) {
-inputs[i].onclick = switchLayer;
-}
+// for (var i = 0; i < inputs.length; i++) {
+// inputs[i].onclick = switchLayer;
+// }
 
 map.on("style.load", function() {
 
@@ -107,7 +102,8 @@ map.on("style.load", function() {
 			"text-color": "#FFFFFF"
 		}
 	});
-
+// TO FIX: if points are on same exact spot, need to offset
+// https://github.com/bewithjonam/mapboxgl-spiderifier?
 	map.addLayer({
 		id: "unclustered-point",
 		type: "symbol",
@@ -115,12 +111,11 @@ map.on("style.load", function() {
 		filter: ["!has", "point_count"],
     layout: {
 	    "icon-image": "blue-music-15",
-      "icon-padding": 0,
-      "icon-size": 1.25,
-      "icon-rotate": initialRotation,
-      "icon-allow-overlap":true,
-      "text-field": "",
-      "text-font": [
+		"icon-padding": 0,
+		"icon-size": 1.25,
+		"icon-allow-overlap":true,
+		"text-field": "",
+		"text-font": [
         "bdplakatt Regular",
         "Arial Unicode MS Bold"
       ]
@@ -146,9 +141,13 @@ map.on('click', 'unclustered-point', function(e) {
 		.setHTML(
 			"<h3>" +
 				feature.properties.title +
-				" - " +
+				"<p></h3><h4><i>" +
+				feature.properties.month + " " +
+				feature.properties.day + ", " +
 				feature.properties.year +
-				"</h3>" +
+				"</p></h4></i>" +
+				"<p>Device used: " +
+				feature.properties["recording_device"] +
 				feature.properties.html
 		)
 		.setLngLat(feature.geometry.coordinates)
@@ -156,24 +155,8 @@ map.on('click', 'unclustered-point', function(e) {
 });
 
 map.on('mouseenter', 'unclustered-point', function() {
-  map.getCanvas().style.cursor = 'pointer';
-  function animateMarker(timestamp) {
-    setTimeout(function(){
-        requestAnimationFrame(animateMarker);
-
-        rotation += (maxRotation - rotation) / framesPerSecond;
-
-        map.setLayoutProperty('unclustered-point', 'icon-rotate', rotation);
-
-        if (rotation <= 0) {
-            rotation = initialRotation;
-        } 
-
-    }, 1000 / framesPerSecond);
-  }
-    // Start the animation.
-    animateMarker(0);
-    });
+  map.getCanvas().style.cursor = 'pointer';  
+});
 
 map.on('mouseleave', 'unclustered-point', function() {
   map.getCanvas().style.cursor = '';
