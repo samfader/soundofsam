@@ -7,7 +7,7 @@ var filterGroup = document.getElementById("filter-group");
 // add attribution <div>Icons made by <a href="https://www.flaticon.com/authors/kiranshastry" title="Kiranshastry">Kiranshastry</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 var map = new mapboxgl.Map({
 	container: "map",
-	style: "mapbox://styles/samf/cjzk8fx125nc61cnss6fa6zp5",
+	style: "mapbox://styles/samf/cjzk8fx125nc61cnss6fa6zp5/draft",
 	center: [-99.782286, 38.408858],
 	zoom: 3.6,
 	hash: true,
@@ -69,9 +69,9 @@ map.on("style.load", function() {
 					 "circle-color": [
 							 "step",
 							 ["get", "point_count"],
-							 "#9D433D",
+							 "#6677e5",
 							 3,
-							 "#9D433D"
+							 "#6677e5"
 					 ],
 					 "circle-radius": [
 							 "step",
@@ -110,7 +110,7 @@ map.on("style.load", function() {
 		source: "sounds",
 		filter: ["!has", "point_count"],
     layout: {
-	    "icon-image": "blue-music-15",
+	    "icon-image": "circle-stroked-15",
 		"icon-padding": 0,
 		"icon-size": 1.25,
 		"icon-allow-overlap":true,

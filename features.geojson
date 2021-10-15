@@ -1015,6 +1015,420 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Sauvie Island - Gilbert River Rd",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/i1wmv28dacvnm2m/Say%20is%20island%20Gilbert%20river%20rd.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "May",
+                "day": "17",
+                "year": "2020"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.846379, 
+                    45.734045
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Kellog, Idaho",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/s8irj9vp32u4q95/Kellogg%20Idaho.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "September",
+                "day": "2",
+                "year": "2020"
+            },
+            "geometry": {
+                "coordinates": [
+                    -116.120928,
+                    47.536202
+                ],
+                "type": "Point"
+            }
+        },
+          {
+            "type": "Feature",
+            "properties": {
+                "title": "Sheridan, WY - Band practice next to train tracks",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/fncbg00dc5gil5e/Sheridan%20Wyoming%20at%20night%20with%20a%20live%20band%20playing%20right%20next%20to%20train%20tracks.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "September",
+                "day": "3",
+                "year": "2020"
+            },
+            "geometry": {
+                "coordinates": [
+                    -106.953447, 
+                    44.803750
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "50R Gallup at night",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/65r22feruzxxkks/50r%20Gallup%20lane%20at%20night.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "September",
+                "day": "16",
+                "year": "2020"
+            },
+            "geometry": {
+                "coordinates": [
+                    -72.156030,
+                    41.341294
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Terrapin Point - Niagara Falls",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/u637hq91hzm001v/Terrapin%20point%20Niagara%20Falls.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "October",
+                "day": "26",
+                "year": "2020"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.0741686,
+                    43.080641
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Shoshone Falls",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/xat93lj4x137u19/Shoshone%20Falls%20a%20Twin%20Falls%20a%20Idaho.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "October",
+                "day": "30",
+                "year": "2020"
+            },
+            "geometry": {
+                "coordinates": [
+                    -114.4015970,
+                    42.593704
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Hail storm",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/c3jcuefgqa08xpt/Portland%20hail%20storm.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "November",
+                "day": "13",
+                "year": "2020"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.660169,
+                    45.54177543
+                ],
+                "type": "Point"
+            }
+        },
+         {
+            "type": "Feature",
+            "properties": {
+                "title": "Dara snoring",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/l5rcgv46dfp36jm/Dara%20snoring.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "December",
+                "day": "13",
+                "year": "2020"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.660169,
+                    45.54177543
+                ],
+                "type": "Point"
+            }
+        },
+         {
+            "type": "Feature",
+            "properties": {
+                "title": "Pacific ocean in Moclips",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/m1az3vtq9uud2mp/Moclips%20wa.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "January",
+                "day": "9",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -124.217347,
+                    47.241698
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Edie B Snorin' Away",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/emlkssn0odgepmf/Edie%20B%20Snorin%E2%80%99%20Away.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "January",
+                "day": "16",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.660169,
+                    45.54177543
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Ice cave",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/wcmepplgchqf8kl/Ice%20cave%20near%20atkisson%20sno%20park%20wa.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "February",
+                "day": "6",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -121.632602,
+                    45.961203
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "City birds",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/3is1ss6aijf0lff/11th%20and%20Knott%20birds.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "February",
+                "day": "7",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.654442,
+                    45.542097
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Vibin' at Peninsula Park",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/om736fdaz51ov34/People%20vibing%20at%20peninsula%20park.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "February",
+                "day": "28",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.673887,
+                    45.568322
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Alvord hot springs",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/om736fdaz51ov34/People%20vibing%20at%20peninsula%20park.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "15",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -118.532527,
+                    42.5439619
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Summer Lake playa",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/9vkr6h93lnztfpp/Summer%20lake%20playa.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "15",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -120.65523,
+                    42.7303568
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mountain train in Westfir, OR",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/ycivv9q37wsv9g6/Train%20westfir%20or.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "16",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.527662,
+                    43.757576
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Old steam engine at Wooden Shoe Tulip Fest",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/2nsjbtqw64qr6uh/Steam%20engine%20Woodbury%20tulip%20fest.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "April",
+                "day": "11",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.748559,
+                    45.1189586
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Fresh baked crackling bread",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/https://www.dropbox.com/s/2ar2qwov0892cuz/Fresh%20baked%20crackling%20bread.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "May",
+                "day": "23",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.660169,
+                    45.54177543
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Rain on tiny house",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/05n6an10pf3r6gz/Rain%20on%20roof%20tiny%20house%20falls%20creek.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "May",
+                "day": "24",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.739149,
+                    43.983258
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Hummocks trail",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/xhoh55gzk2nj4u4/Hummocks%20trail%20mt%20St.%20Helens.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "June",
+                "day": "30",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.271700,
+                    46.286351
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Summer at the arboretum",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/t8tjlko5g4rewb8/Summer%20at%20Hoyt%20arboretum.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "July",
+                "day": "28",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.715893,
+                    45.5159655
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Piano and birds from the front porch",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/bpo90ug2jupiecd/Front%20porch%20piano%20and%20birds.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "September",
+                "day": "11",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.657282,
+                    45.5689318
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Pacific ocean",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/dm88xjpgui7ewuv/Pacific%20Ocean%20rockaway%20beach.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "October",
+                "day": "10",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -123.941957,
+                    45.633590
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "test",
                 "description": "",
                 "recording_device": "Portable Zoom iPhone",
