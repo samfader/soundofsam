@@ -1429,6 +1429,168 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Saturday morning in Queens",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/591u5w8td3v37yc/Saturday%20morning%2021-15%20grove%20st%20Ridgewood.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "November",
+                "day": "6",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -73.90536297,
+                    40.7088596
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "A better kind of South Beach",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/483eav3jbsx6wzx/South%20beach%20San%20Juan%20island.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "November",
+                "day": "12",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -123.0017112,
+                    48.4562506
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "283 Otter Lane",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/wpqxjckph7khem1/283%20otter%20lane%20San%20Juan%20island.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "November",
+                "day": "14",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -123.0017112,
+                    48.4562506
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Jakles Lagoon",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/h4edcqy7fckctoi/Jakles%20lagoon%20San%20Juan%20island.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "November",
+                "day": "14",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.98932,
+                    48.46076041
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Christmas music in Basel (warning: childish profanity uttered approx. 25 seconds in)",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/xswck05pe0u6a1z/Christmas%20music%20basilisk%20Basel.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "December",
+                "day": "18",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    7.5880228,
+                    47.55822182
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "City sounds",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/w033kw449hu6un2/Basel%20city%20sounds.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "December",
+                "day": "18",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    7.5897795,
+                    47.55659397
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Church bells from the top of a hill",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/4vd0rrqq0amirn2/Church%20bells%20shwarzee%20Switzerland%20from%20top%20of%20hill.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "December",
+                "day": "22",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    7.279465915,
+                    46.6737917
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Rushing creek",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/m8nlmgjlwopc2w4/Rushing%20creek%20under%20Burstera%20in%20schwarzee.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "December",
+                "day": "23",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    7.29184511,
+                    46.675437037
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Saturday night church bells",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/6voi9szkcuqiaeg/Saturday%20night%20church%20bells%2076%20eigerstrasse%20Bern%20%28they%20go%20for%2015%20mins%20every%20Saturday%20at%207p%29.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "December",
+                "day": "25",
+                "year": "2021"
+            },
+            "geometry": {
+                "coordinates": [
+                    7.43926012,
+                    46.93932215
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "test",
                 "description": "",
                 "recording_device": "Portable Zoom iPhone",
