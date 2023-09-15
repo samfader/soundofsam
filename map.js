@@ -109,7 +109,7 @@ map.on("style.load", function() {
 		source: "sounds",
 		filter: ["!has", "point_count"],
     layout: {
-	    "icon-image": "circle-stroked-15",
+	    "icon-image": "circle-15",
 		"icon-padding": 0,
 		"icon-size": 1.25,
 		"icon-allow-overlap":true,
