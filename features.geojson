@@ -1627,6 +1627,187 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Birdcalls on the Klamath Falls Trail (? - trail name probably wrong) near Mt. St Helens",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/s5bgbf65lv6vsydyuc3pf/Call-birds-Klamath-Falls-Trail-near-Saint-Helens.mp3?rlkey=ohlv697fy2g1u1vp9bxlz3lks' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "20",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.246857, 
+                    46.285205
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Coho (Black Ball) Ferry just outside Victoria, BC harbor",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/f6ht7dwt8qimt9jp17i91/Coho-ferry-just-outside-Victoria-harbor.mp3?rlkey=uumr668ol0pnjrntpr7adrc3x' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "May",
+                "day": "31",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -123.397012,
+                    48.412851
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Sounds of Bristol, RI",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/nlqilgccqvhdp1hltxwwn/Bristol-Rhode-Island-bradford-and-high-street.mp3?rlkey=ur2uvgh7snvmhieahd5d2b3v4' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "June",
+                "day": "11",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -71.274544,
+                    41.672532
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Rhode Island Audobon",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/f14qw57ux2j7azs7xcmvs/Rhode-Island-Audobon.mp3?rlkey=sy2m4103i8z5whs4cx1avsfxi' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "June",
+                "day": "11",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -71.283405,  
+                    41.710375
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Picnic table at the end of the Weldon Wagon Trail",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/d7bhjlk9xqqimwabfzhag/Picnic-table-at-end-of-Weldon-wagon-trail-WA.mp3?rlkey=zz6ltzf7u9y7etuwksfqpxltk' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "July",
+                "day": "2",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -121.446172,
+                    45.797156
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Morning in Silver Lake, LA",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/o5kvotzh5fzh5k3j19vxr/Morning-in-silver-lake-LA-2317-Ewing-st.mp3?rlkey=klsskykww8334zrr05b18o05b' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "August",
+                "day": "1",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -118.26184467287239, , 
+                    34.09249510238155
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Birds in Costanoa",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/33jjo1kjukhq6wr906v4e/Costanoa-birds-in-ca.mp3?rlkey=zkgmippid8cwflisel8j93shl' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "January",
+                "day": "27",
+                "year": "2023"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.348714,
+                    37.156429
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "At the end of Golden Gate Park",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32'https://dl.dropboxusercontent.com/scl/fi/dknv1fq12un8jez48t3ro/End-of-golden-gate-ok-2.mp3?rlkey=vdoo6rbg5bpeb2yfavmkysfok' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "January",
+                "day": "27",
+                "year": "2023"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.510905, 
+                    37.770283 
+
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Maiden Pools",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/c9kz67ie10yzzp6jv6ux3/Maiden-pools-top-of-Ventana-canyon-hike.mp3?rlkey=rf5xr1rqwg04tslax48a1nup8' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "February",
+                "day": "10",
+                "year": "2023"
+            },
+            "geometry": {
+                "coordinates": [
+                    -110.857834,
+                    32.352852
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "First day in Costa Rica -- rainy restaurant stop",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/xltdgc3mfrdi9crfivgx8/Costa-Rica-restaurant-on-route-32-after-braille-cajillo-no.mp3?rlkey=1erqfgmpy3nq8gahpkz44413u' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "9",
+                "year": "2023"
+            },
+            "geometry": {
+                "coordinates": [
+                    -83.900225,
+                    10.196044
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Rain at Speelyai Creek",
                 "recording_device": "iPhone",
                 "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/933dgh9jc7zvh9h8912b6/Rain-and-speelyai-creek-143-Kellogg-rd-Ariel-wa.mp3?rlkey=l0ho6ng76sx7egu6n6k96ej4j' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
@@ -1645,17 +1826,125 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Morning in Silver Lake, LA",
+                "title": "Rain at Speelyai Creek",
                 "recording_device": "iPhone",
-                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/o5kvotzh5fzh5k3j19vxr/Morning-in-silver-lake-LA-2317-Ewing-st.m4a?rlkey=klsskykww8334zrr05b18o05b' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
-                "month": "August",
-                "day": "1",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/933dgh9jc7zvh9h8912b6/Rain-and-speelyai-creek-143-Kellogg-rd-Ariel-wa.mp3?rlkey=l0ho6ng76sx7egu6n6k96ej4j' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "19",
                 "year": "2022"
             },
             "geometry": {
                 "coordinates": [
-                    -118.26184467287239, , 
-                    34.09249510238155
+                    -122.4082041475256,
+                    45.990357536633695
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Rain at Speelyai Creek",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/933dgh9jc7zvh9h8912b6/Rain-and-speelyai-creek-143-Kellogg-rd-Ariel-wa.mp3?rlkey=l0ho6ng76sx7egu6n6k96ej4j' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "19",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.4082041475256,
+                    45.990357536633695
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Rain at Speelyai Creek",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/933dgh9jc7zvh9h8912b6/Rain-and-speelyai-creek-143-Kellogg-rd-Ariel-wa.mp3?rlkey=l0ho6ng76sx7egu6n6k96ej4j' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "19",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.4082041475256,
+                    45.990357536633695
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Rain at Speelyai Creek",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/933dgh9jc7zvh9h8912b6/Rain-and-speelyai-creek-143-Kellogg-rd-Ariel-wa.mp3?rlkey=l0ho6ng76sx7egu6n6k96ej4j' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "19",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.4082041475256,
+                    45.990357536633695
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Rain at Speelyai Creek",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/933dgh9jc7zvh9h8912b6/Rain-and-speelyai-creek-143-Kellogg-rd-Ariel-wa.mp3?rlkey=l0ho6ng76sx7egu6n6k96ej4j' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "19",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.4082041475256,
+                    45.990357536633695
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Rain at Speelyai Creek",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/933dgh9jc7zvh9h8912b6/Rain-and-speelyai-creek-143-Kellogg-rd-Ariel-wa.mp3?rlkey=l0ho6ng76sx7egu6n6k96ej4j' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "19",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.4082041475256,
+                    45.990357536633695
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Rain at Speelyai Creek",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/933dgh9jc7zvh9h8912b6/Rain-and-speelyai-creek-143-Kellogg-rd-Ariel-wa.mp3?rlkey=l0ho6ng76sx7egu6n6k96ej4j' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "19",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.4082041475256,
+                    45.990357536633695
                 ],
                 "type": "Point"
             }
