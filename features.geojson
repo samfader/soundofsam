@@ -1591,6 +1591,78 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Sounds of the Sandy River",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/s/dae75qpdhskdc2f/Sandy%20river%20near%20mtn%20air%20drive%20welches%20or.mp3' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "5",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -121.98354322574815,
+                    45.35850365634767
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Rain at Speelyai Creek",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/933dgh9jc7zvh9h8912b6/Rain-and-speelyai-creek-143-Kellogg-rd-Ariel-wa.mp3?rlkey=l0ho6ng76sx7egu6n6k96ej4j' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "19",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.4082041475256,
+                    45.990357536633695
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Rain at Speelyai Creek",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/933dgh9jc7zvh9h8912b6/Rain-and-speelyai-creek-143-Kellogg-rd-Ariel-wa.mp3?rlkey=l0ho6ng76sx7egu6n6k96ej4j' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "March",
+                "day": "19",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.4082041475256,
+                    45.990357536633695
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Morning in Silver Lake, LA",
+                "recording_device": "iPhone",
+                "html": "<p><audio width='300' height='32' src='https://dl.dropboxusercontent.com/scl/fi/o5kvotzh5fzh5k3j19vxr/Morning-in-silver-lake-LA-2317-Ewing-st.m4a?rlkey=klsskykww8334zrr05b18o05b' controls='controls'><br />Your browser does not support the audio element.<br /></audio></p>",
+                "month": "August",
+                "day": "1",
+                "year": "2022"
+            },
+            "geometry": {
+                "coordinates": [
+                    -118.26184467287239, , 
+                    34.09249510238155
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "test",
                 "description": "",
                 "recording_device": "Portable Zoom iPhone",
